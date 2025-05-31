@@ -9,6 +9,7 @@ const Six = () => {
     return (
         <div className='six-page flex flex-col'>
 
+            <p className='text-2xl font-bold text-red-700 mx-5 mb-5 mt-5'>Love You Unlimited Mere Life Line</p>
             <p className='text-base font-semibold text-orange-950 mb-20 mx-5 '>22 जुलाई 2024 —
                 आज का दिन रजनीश और तनु के लिए सिर्फ एक बात करने का दिन नहीं था,
                 बल्कि ज़िंदगी भर का सपना देखने का दिन था।
