@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nine-page {
+    background-color: rgb(154, 216, 252);
+    background-image: url("./eleven.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
